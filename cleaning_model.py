@@ -71,5 +71,5 @@ class CleaningModel(mesa.Model):
         plt.xlabel("X-axis")
         plt.ylabel("Y-axis")
         plt.draw()
-        plt.pause(0.9)
+
         plt.clf()
